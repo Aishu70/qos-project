@@ -62,14 +62,17 @@ Conclusion
 This project demonstrates how SDN can be used to implement Quality of Service (QoS) by dynamically identifying traffic types and assigning priorities using a centralized controller.
 ________________________________________
 Proof of Execution
-![image1](images/Picture1.png) 
-![image2](images/Pictures2.png)
+![image1](Images/Picture1.png) 
+![image2](Images/Pictures2.png)
+
 Controller logs (HIGH & LOW priority)
 
-![image3](images/Picture3.png)
+![image3](Images/Picture3.png)
+
 Mininet ping output
 
-![image4](images/Picture4.png)
+![image4](Images/Picture4.png)
+
 iperf results
 ________________________________________
 References
