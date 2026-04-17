@@ -17,7 +17,7 @@ ________________________________________
 •	OpenFlow Protocol
 •	Ubuntu (WSL)
 ________________________________________
-🧩Network Topology
+Network Topology
 •	Single switch topology
 •	3 hosts (h1, h2, h3)
 •	All hosts connected to one switch
