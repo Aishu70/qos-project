@@ -63,7 +63,8 @@ This project demonstrates how SDN can be used to implement Quality of Service (Q
 ________________________________________
 Proof of Execution
 ![image1](Images/Picture1.png) 
-![image2](Images/Pictures2.png)
+
+![image2](Images/Picture2.png)
 
 Controller logs (HIGH & LOW priority)
 
