@@ -76,8 +76,5 @@ Mininet ping output
 
 iperf results
 ________________________________________
-References
-•	POX Controller Documentation
-•	Mininet Official Guide
-•	OpenFlow Basics
+
 
